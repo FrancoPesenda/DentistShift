@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76c1ad1d.css",
+    "main.js": "/static/js/main.91d93a56.js",
+    "static/media/dentist.jpg": "/static/media/dentist.0d1b77106667cc0daab3.jpg",
+    "index.html": "/index.html",
+    "main.76c1ad1d.css.map": "/static/css/main.76c1ad1d.css.map",
+    "main.91d93a56.js.map": "/static/js/main.91d93a56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76c1ad1d.css",
+    "static/js/main.91d93a56.js"
+  ]
+}
